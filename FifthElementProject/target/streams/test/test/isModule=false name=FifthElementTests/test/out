@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mFifthElementTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Fifth element should be returned from list with length >= 5[0m[0m
+[0m[[0minfo[0m] [0m[32m- Nil should be returned from list with length < 5[0m[0m

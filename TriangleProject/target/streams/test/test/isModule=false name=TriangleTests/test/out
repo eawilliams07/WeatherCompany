@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mTriangleTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Triangle with three equal sides should result in equilateral[0m[0m
+[0m[[0minfo[0m] [0m[32m- Triangle with two equal sides should result in isosceles[0m[0m
+[0m[[0minfo[0m] [0m[32m- Triangle with no equal sides should result in scalar[0m[0m
